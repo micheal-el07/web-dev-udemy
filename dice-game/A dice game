@@ -1,1 +1,5 @@
 Dice game by Angela on Web Dev Course
+
+The html skeleton is obtain from the Angela web dev course.
+
+The javascript is self design to pick a random number between 1 to 6 and the number will be choose to pick the dice images.
